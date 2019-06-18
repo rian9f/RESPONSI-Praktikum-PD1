@@ -6,7 +6,7 @@ public class Tebak_Kata {
 
     static Scanner input = new Scanner(System.in);
 
-    static int a = (int) (Math.random() * 9 + 1);// acak angka dari 0-10
+    static int a = (int) (Math.random() * 9 + 1);
     static int c = 2;
     static int i;
     static int min = 25;
